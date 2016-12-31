@@ -1,2 +1,2 @@
 # Pandas-practice
-Practice common pandas commands 
+Practice common Pandas commands based on Jose Portilla's Udemy course 
