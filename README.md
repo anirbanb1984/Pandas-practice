@@ -1,2 +1,2 @@
 # Pandas-practice
-Getting familiar with Pandas through instructional commands
+Learning Pandas using the lectures of Jose Portilla as reference
